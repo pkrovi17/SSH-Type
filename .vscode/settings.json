@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "addstr",
+        "attroff",
+        "attron",
+        "getch",
+        "getmaxyx",
+        "nodelay",
+        "stdscr"
+    ]
+}
