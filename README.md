@@ -34,7 +34,7 @@ pip install numpy
 ## Usage
 
 ```bash
-python monkeytype_terminal.py
+python3 sshType.py
 ```
 
 > Run it in a real terminal (not in an IDE terminal emulator).
