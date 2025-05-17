@@ -20,7 +20,7 @@ A retro-inspired terminal-based typing speed test inspired by [monkeytype.com](h
 
 ## Dependencies
 
-* Python 3.x
+* Python 3.🍇
 * `numpy` (for WPM consistency stats)
 
 Install with pip:
