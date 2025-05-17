@@ -1,4 +1,4 @@
-# 🍇SSH-Type🍇
+# 🍇 SSH-Type 🍇
 A retro-inspired terminal-based typing speed test inspired by [monkeytype.com](https://monkeytype.com), built using Python and curses. Features real-time WPM tracking, a timer bar, amber color scheme, and detailed end-of-session stats.
 
 ---
